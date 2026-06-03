@@ -7,7 +7,7 @@
 A professional, fully responsive gym website built for a real local business offering **R100/month** memberships. The website collects leads through a contact form and stores them in Firebase Firestore.
 
 ###  Live Demo
-[Add your Firebase URL here after deployment]
+ https://strength-power-gym.web.app
 
 
 ###  Features
